@@ -1,6 +1,5 @@
 ## Olá, sou José Torres 👋
 
-- 🔭 Atualmente trabalhando como Freelancer 
 - 🌱 Estou estudando Python e JavaScript 
 - ⚡ Fun fact: O primeiro bug de computador foi um inseto real,
      uma mariposa presa em um relé do Harvard Mark II em 194
