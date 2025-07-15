@@ -1,6 +1,6 @@
 ## Olá, sou José Torres 👋
 
-- 🌱 Estou estudando Python e JavaScript 
+- 🌱 Estou estudando Python e C#
 - ⚡ Fun fact: O primeiro bug de computador foi um inseto real,
      uma mariposa presa em um relé do Harvard Mark II em 1946
 
