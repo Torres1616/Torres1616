@@ -13,9 +13,9 @@
   <img align="center" alt="torres-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="torres-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="torres-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="torres-C" height="30" width="40" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-  <img align="center" alt="torres-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Php-logo.png">
-  <img align="center" alt="torres-PostegreSQL" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img align="center" alt="torres-C" height="30" width="40" src="https://icons8.com.br/icons/set/c-programming">
+  <img align="center" alt="torres-PHP" height="30" width="40" src="https://pngdownload.io/png-image/php-logo-symbol-of-the-scripting-language-web-development-transparent-png-image/">
+  <img align="center" alt="torres-PostegreSQL" height="30" width="40" src="https://iconscout.com/pt/icons/postgresql">
 </div>
 </div>
 <br>
