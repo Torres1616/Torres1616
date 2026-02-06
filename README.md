@@ -13,8 +13,9 @@
   <img align="center" alt="torres-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="torres-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="torres-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="torres-Python" height="30" width="40" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white">
-  <img align="center" alt="torres-Python" height="30" width="40" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="torres-C" height="30" width="40" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+  <img align="center" alt="torres-PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img align="center" alt="torres-PostegreSQL" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 </div>
 </div>
 <br>
