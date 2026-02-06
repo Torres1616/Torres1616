@@ -14,7 +14,7 @@
   <img align="center" alt="torres-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="torres-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="torres-C" height="30" width="40" src="https://icons8.com.br/icons/set/c-programming">
-  <img align="center" alt="torres-PHP" height="30" width="40" src="https://pngdownload.io/png-image/php-logo-symbol-of-the-scripting-language-web-development-transparent-png-image/">
+  <img align="center" alt="torres-PHP" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-php-icon-svg-download-png-1175128.png?f=webp&w=256">
   <img align="center" alt="torres-PostegreSQL" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-icon-svg-download-png-1175122.png?f=webp&w=256">
 </div>
 </div>
