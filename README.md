@@ -4,7 +4,7 @@
 - ⚡ Fun fact: O primeiro bug de computador foi um inseto real,
      uma mariposa presa em um relé do Harvard Mark II em 1946
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torres1616&show_icons=true&theme=github_dark_dimmed )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torres1616&show_icons=true&theme=dark&hide_border=true )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres1616&hide_progress=true&theme=github_dark_dimmed&hide_progress=true )
 <br>
 <div> 
